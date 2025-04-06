@@ -1,6 +1,6 @@
 {
   "homapage": "https://boulayM.github.io/test-deploy",
-  "name": "challenges",
+  "name": "deploy",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
